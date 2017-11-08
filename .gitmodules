@@ -1,0 +1,3 @@
+[submodule "gauge-samza"]
+	path = gauge-samza
+	url = https://github.com/swrrt/gauge-samza/
